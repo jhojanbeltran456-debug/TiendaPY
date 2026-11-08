@@ -1,0 +1,16 @@
+LAC001|Leche entera 1L|Lacteos|4200.0|35|10|Alqueria
+LAC002|Yogurt fresa 1L|Lacteos|6900.0|4|8|Alpina
+LAC003|Queso campesino 500g|Lacteos|11500.0|12|6|Colanta
+BEB001|Agua botella 600ml|Bebidas|2200.0|48|20|Postobon
+BEB002|Jugo de naranja 1L|Bebidas|5400.0|15|8|Postobon
+BEB003|Gaseosa 1.5L|Bebidas|5800.0|8|12|Postobon
+BEB004|Cerveza lata 330ml|Bebidas|3500.0|0|12|Bavaria
+ASE001|Jabón de barra|Aseo|2800.0|30|10|Distribuidora Norte
+ASE002|Detergente 500g|Aseo|7500.0|20|5|Distribuidora Norte
+ASE003|Papel higiénico x4|Aseo|9800.0|5|8|Familia
+ABA001|Arroz 1kg|Abarrotes|4800.0|40|15|Distribuidora Norte
+ABA002|Aceite 1L|Abarrotes|14500.0|18|6|Distribuidora Norte
+ABA003|Azúcar 1kg|Abarrotes|4300.0|25|10|Incauca
+ABA004|Huevos x30|Abarrotes|18500.0|10|5|Granja Don Pedro
+SNK001|Papas fritas 100g|Snacks|3200.0|22|10|Frito Lay
+SNK002|Galletas de sal|Snacks|2500.0|3|10|Noel
